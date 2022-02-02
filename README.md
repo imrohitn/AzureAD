@@ -3,7 +3,7 @@
 
 |Original Author|Created Date|Last Changed|Contributors|Technology| Repo type | 
 |--------|--------|-------------|-------------|--------------|-----------|
-| @imrohitn | 03-Feb-2022 | 03-Feb-2022 | @shashishailaj | Azure AD | Scripts | 
+| @imrohitn | 03-Feb-2022 | 03-Feb-2022 |  | Azure AD | Scripts | 
 
 
 # Azure Active Directory Scripts 
